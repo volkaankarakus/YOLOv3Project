@@ -3,4 +3,4 @@ The project consists of a piece of code written to detect the default YOLO weigh
 Weights were taken over yolov3's 416 frames.
 In order for the project to work, openCV, numpy libraries must be installed.
 
-![Image](https://vkarakus.com/image-12)
+![Image](https://vkarakuscom.files.wordpress.com/2021/01/ekran-alintisi2-3.png)
